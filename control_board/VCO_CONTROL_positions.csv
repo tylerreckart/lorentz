@@ -1,0 +1,36 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"J20","B2B 2x15 male","PinHeader_2x15_P2.54mm_Vertical",50.280000,-10.770000,90.000000,bottom
+"J21","B2B 2x15 male","PinHeader_2x15_P2.54mm_Vertical",125.780000,-10.770000,90.000000,bottom
+"D23","3mm red","LED_D3.0mm",6.580000,-4.350000,0.000000,top
+"D25","3mm red","LED_D3.0mm",131.480000,-4.350000,0.000000,top
+"D27","3mm red","LED_D3.0mm",111.050000,-75.750000,0.000000,top
+"D29","3mm red","LED_D3.0mm",27.010000,-75.750000,0.000000,top
+"D31","3mm red","LED_D3.0mm",33.030000,-89.950000,0.000000,top
+"D33","3mm red","LED_D3.0mm",51.030000,-89.950000,0.000000,top
+"D35","3mm red","LED_D3.0mm",105.030000,-89.950000,0.000000,top
+"D37","3mm red","LED_D3.0mm",87.030000,-89.950000,0.000000,top
+"D41","3mm red","LED_D3.0mm",69.030000,-89.950000,0.000000,top
+"D43","3mm red","LED_D3.0mm",55.480000,-7.200000,0.000000,top
+"D44","3mm red","LED_D3.0mm",82.580000,-7.200000,0.000000,top
+"J2","PJ398SM","Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles",42.750000,-51.270000,0.000000,top
+"J3","PJ398SM","Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles",34.300000,-94.970000,0.000000,top
+"J4","PJ398SM","Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles",52.300000,-94.970000,0.000000,top
+"J5","PJ398SM","Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles",97.850000,-51.270000,0.000000,top
+"J6","PJ398SM","Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles",112.850000,-51.270000,0.000000,top
+"J7","PJ398SM","Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles",106.300000,-94.970000,0.000000,top
+"J8","PJ398SM","Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles",88.300000,-94.970000,0.000000,top
+"J9","PJ398SM","Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles",70.300000,-31.120000,0.000000,top
+"J10","PJ398SM","Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles",127.350000,-87.270000,0.000000,top
+"J11","PJ398SM","Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles",13.250000,-87.270000,0.000000,top
+"J12","PJ398SM","Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles",70.300000,-94.970000,0.000000,top
+"J13","PJ398SM","Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles",70.300000,-45.620000,0.000000,top
+"J14","PJ398SM","Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles",27.750000,-51.270000,0.000000,top
+"RV1","10k","Alpha_RV16AF-41_Single_Vertical",30.750000,-27.950000,0.000000,top
+"RV2","10k","Alpha_RV16AF-41_Single_Vertical",109.850000,-27.950000,0.000000,top
+"RV3","100k","Potentiometer_Alpha_RD901F-40-00D_Single_Vertical",128.850000,-59.250000,90.000000,top
+"RV6","100k","Potentiometer_Alpha_RD901F-40-00D_Single_Vertical",72.800000,-14.550000,-90.000000,top
+"RV7","100k","Potentiometer_Alpha_RD901F-40-00D_Single_Vertical",124.850000,-83.250000,90.000000,top
+"RV8","100k","Potentiometer_Alpha_RD901F-40-00D_Single_Vertical",6.750000,-59.250000,90.000000,top
+"RV9","100k","Potentiometer_Alpha_RD901F-40-00D_Single_Vertical",10.750000,-83.250000,90.000000,top
+"RV10","100k","Potentiometer_Alpha_RD901F-40-00D_Single_Vertical",67.800000,-82.850000,90.000000,top
+"SW1","2MD1T1B1M2QES","SW_Dailywell_2MD1_M2",70.300000,-7.200000,90.000000,top

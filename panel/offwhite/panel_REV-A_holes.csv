@@ -1,0 +1,44 @@
+id,type,x_mm,y_mm (origin top-left, y down),dia_mm,note
+H1,knob,31.4,38.2,7.3,
+H2,knob,110.5,38.2,7.3,
+H3,knob,70.95,32.3,7.3,
+H4,knob,9.9,62,7.3,
+H5,knob,132,62,7.3,
+H6,knob,13.9,86,7.3,
+H7,knob,70.95,85.6,7.3,
+H8,knob,128,86,7.3,
+H9,jack,28.4,68,6.3,
+H10,jack,98.5,68,6.3,
+H11,jack,113.5,68,6.3,
+H12,jack,13.9,104,6.3,
+H13,jack,128,104,6.3,
+H14,jack,70.95,47.85,6.3,
+H15,jack,70.95,62.35,6.3,
+H16,jack,43.4,68,6.3,
+H17,jack,34.95,111.7,6.3,
+H18,jack,52.95,111.7,6.3,
+H19,jack,70.95,111.7,6.3,
+H20,jack,88.95,111.7,6.3,
+H21,jack,106.95,111.7,6.3,
+H22,led,8.5,14.6,3.2,
+H23,led,133.4,14.6,3.2,
+H24,led,34.95,100.2,3.2,
+H25,led,52.95,100.2,3.2,
+H26,led,70.95,100.2,3.2,
+H27,led,88.95,100.2,3.2,
+H28,led,106.95,100.2,3.2,
+H29,led,57.4,17.45,3.2,
+H30,led,84.5,17.45,3.2,
+H31,led,28.93,86,3.2,
+H32,led,112.97,86,3.2,
+H33,toggle,70.95,17.45,5.2,
+H34,screw_csk,8.1,22.5,3.4,through 3.4 + 90deg countersink to 6.0 dia on FRONT face
+H35,screw_csk,133.8,22.5,3.4,through 3.4 + 90deg countersink to 6.0 dia on FRONT face
+H36,screw_csk,57.4,58,3.4,through 3.4 + 90deg countersink to 6.0 dia on FRONT face
+H37,screw_csk,84.5,58,3.4,through 3.4 + 90deg countersink to 6.0 dia on FRONT face
+H38,screw_csk,23.4,113.5,3.4,through 3.4 + 90deg countersink to 6.0 dia on FRONT face
+H39,screw_csk,118.5,113.5,3.4,through 3.4 + 90deg countersink to 6.0 dia on FRONT face
+S1,rail_slot,7.5,3,3.2,slot 5.6 x 3.2 overall (centres 2.4 apart horizontally)
+S2,rail_slot,134.5,3,3.2,slot 5.6 x 3.2 overall (centres 2.4 apart horizontally)
+S3,rail_slot,7.5,125.5,3.2,slot 5.6 x 3.2 overall (centres 2.4 apart horizontally)
+S4,rail_slot,134.5,125.5,3.2,slot 5.6 x 3.2 overall (centres 2.4 apart horizontally)
