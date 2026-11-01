@@ -1,6 +1,8 @@
 # LORENTZ
-An all-analog topology complex oscillator inspired by Don Buchla’s 259. Sized for Eurorack (28 HP).
+An all-analog topology complex oscillator inspired by Don Buchla’s 259. Sized for Eurorack (28 HP).  
+
 ![LORENTZ REV-A front panels, off-white and black][image-1]
+
 ## Overview
 Two oscillators, a modulation oscillator and a principal oscillator:
 - **Modulation oscillator:** coarse tuning dial (-3 to +3), SYMM, WAVE and FREQ, AM, MOD OUTS (two waveforms).
