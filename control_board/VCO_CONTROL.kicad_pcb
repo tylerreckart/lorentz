@@ -386,7 +386,7 @@
 				)
 			)
 		)
-		(property "Value" "3mm red"
+		(property "Value" "3mm amber"
 			(at 1.27 2.96 0)
 			(layer "F.Fab")
 			(uuid "30156183-dafb-4bb6-801f-49ee15aff828")
@@ -6664,7 +6664,7 @@
 				)
 			)
 		)
-		(property "Value" "3mm red"
+		(property "Value" "3mm amber"
 			(at 1.27 2.96 0)
 			(layer "F.Fab")
 			(uuid "14c97914-2e77-4cdf-a859-7e9b03fb9272")

@@ -14,7 +14,7 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "C13","100n","C_Disc_D3.0mm_W2.0mm_P2.50mm",74.110000,-35.250000,90.000000,bottom
 "C14","47p","C_Disc_D3.0mm_W2.0mm_P2.50mm",51.250000,-61.250000,90.000000,bottom
 "C15","100p","C_Disc_D3.0mm_W2.0mm_P2.50mm",58.870000,-82.250000,90.000000,bottom
-"C16","2.2n C0G","C_Disc_D3.0mm_W2.0mm_P2.50mm",66.490000,-77.250000,90.000000,bottom
+"C16","10n C0G","C_Disc_D3.0mm_W2.0mm_P2.50mm",66.490000,-77.250000,90.000000,bottom
 "C17","100n","C_Disc_D3.0mm_W2.0mm_P2.50mm",62.680000,-35.250000,90.000000,bottom
 "C18","100n","C_Disc_D3.0mm_W2.0mm_P2.50mm",47.440000,-35.250000,90.000000,bottom
 "C19","100n","C_Disc_D3.0mm_W2.0mm_P2.50mm",77.920000,-35.250000,90.000000,bottom
@@ -79,6 +79,7 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "D36","1N4148","D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp",100.780000,-19.270000,90.000000,bottom
 "D38","1N4148","D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp",96.970000,-19.270000,90.000000,bottom
 "D42","1N4148","D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp",85.540000,-19.270000,90.000000,bottom
+"D45","BZX79B6V8","D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp",137.045000,-34.920000,90.000000,bottom
 "J1","Eurorack 10p","IDC-Header_2x05_P2.54mm_Vertical__J1",75.380000,-102.870000,90.000000,bottom
 "Q1","BC557B","TO-92_Inline",23.310000,-55.000000,0.000000,bottom
 "Q2","BC557B","TO-92_Inline",27.120000,-43.000000,0.000000,bottom
@@ -87,14 +88,13 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "R1","10","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",93.160000,-98.270000,90.000000,bottom
 "R2","10","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",104.590000,-98.270000,90.000000,bottom
 "R3","2.2k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",58.870000,-40.270000,90.000000,bottom
-"R4","249k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",51.250000,-56.270000,90.000000,bottom
+"R4","187k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",51.250000,-56.270000,90.000000,bottom
 "R5","110k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",39.820000,-56.270000,90.000000,bottom
 "R6","2k +3300ppm","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",58.300000,-90.270000,90.000000,bottom
 "R7","47","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",62.680000,-61.270000,90.000000,bottom
-"R8","1.5Meg","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",47.440000,-82.270000,90.000000,bottom
+"R8","3.92Meg","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",47.440000,-82.270000,90.000000,bottom
 "R9","6.8k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",43.630000,-82.270000,90.000000,bottom
 "R10","4.7Meg","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",39.820000,-61.270000,90.000000,bottom
-"R11","10k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",58.870000,-77.270000,90.000000,bottom
 "R12","220","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",74.110000,-77.270000,90.000000,bottom
 "R13","220","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",70.300000,-61.270000,90.000000,bottom
 "R14","4.7k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",51.250000,-40.270000,90.000000,bottom
@@ -109,7 +109,7 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "R23","10k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",39.820000,-40.270000,90.000000,bottom
 "R24","1k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",47.440000,-40.270000,90.000000,bottom
 "R25","1k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",43.630000,-35.270000,90.000000,bottom
-"R26","249k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",96.970000,-61.270000,90.000000,bottom
+"R26","442k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",96.970000,-61.270000,90.000000,bottom
 "R27","220k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",119.830000,-19.270000,90.000000,bottom
 "R28","220k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",123.640000,-19.270000,90.000000,bottom
 "R29","3.3Meg","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",93.160000,-61.270000,90.000000,bottom
@@ -189,13 +189,13 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "R103","30k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",62.680000,-82.270000,90.000000,bottom
 "R104","1k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",36.010000,-61.270000,90.000000,bottom
 "R105","10k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",32.200000,-61.270000,90.000000,bottom
-"R106","10k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",16.960000,-61.270000,90.000000,bottom
+"R106","4.99k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",16.960000,-61.270000,90.000000,bottom
 "R107","10k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",77.920000,-44.270000,90.000000,bottom
-"R108","10k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",13.150000,-61.270000,90.000000,bottom
+"R108","4.99k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",13.150000,-61.270000,90.000000,bottom
 "R109","100k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",32.200000,-77.270000,90.000000,bottom
 "R110","220","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",104.590000,-77.270000,90.000000,bottom
 "R111","220","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",131.260000,-61.270000,90.000000,bottom
-"R112","150k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",127.450000,-40.270000,90.000000,bottom
+"R112","143k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",127.450000,-40.270000,90.000000,bottom
 "R113","100k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",135.070000,-56.270000,90.000000,bottom
 "R114","10k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",135.070000,-61.270000,90.000000,bottom
 "R115","100k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",131.260000,-56.270000,90.000000,bottom
@@ -213,8 +213,12 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "R128","2.2k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",51.250000,-77.270000,90.000000,bottom
 "R129","4.7k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",70.300000,-19.270000,90.000000,bottom
 "R130","4.7k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",77.920000,-19.270000,90.000000,bottom
+"R131","100k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",25.175000,-82.420000,90.000000,bottom
+"R132","42.2k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",25.175000,-63.370000,90.000000,bottom
+"R133","470k","R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical",115.300000,-49.840000,90.000000,bottom
 "RV4","20k","Potentiometer_Bourns_3296W_Vertical",86.260000,-102.800000,180.000000,bottom
 "RV5","10k","Potentiometer_Bourns_3296W_Vertical",49.260000,-102.800000,180.000000,bottom
+"RV11","100k","Potentiometer_Bourns_3296W_Vertical",128.000000,-81.590000,180.000000,bottom
 "U1","THAT320P14-U","DIP-14_W7.62mm_Socket",77.920000,-92.810000,90.000000,bottom
 "U2","LM319N/NOPB","DIP-14_W7.62mm_Socket",77.920000,-29.810000,90.000000,bottom
 "U3","LM13700N/NOPB","DIP-16_W7.62mm_Socket",79.190000,-71.810000,90.000000,bottom
